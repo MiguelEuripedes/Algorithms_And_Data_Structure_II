@@ -1,11 +1,11 @@
 # :computer: **DCA0209 - Algorithms And Data Structure II - UFRN**
 
 
+<center><img width="800" src="graph_ia_example.png"></center>
+
 
 #### :pushpin: *About this Repository*:
 This repository aims to store the files and display the progress made troughtout the course of Algorithms and Data Structures II. Here you will find the projects made as well as how we conducted the course progressing by weekly updates.
-
-<center><img width="800" src="graph_ia_example.png"></center>
 
 
 #### 📖 *About the course*:
