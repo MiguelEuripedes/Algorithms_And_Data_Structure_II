@@ -1,7 +1,7 @@
 # :computer: **DCA0209 - Algorithms And Data Structure II - UFRN**
 
 
-<center><img width="800" src="graph_ia_example.png"></center>
+
 
 
 #### :pushpin: *About this Repository*:
@@ -17,7 +17,7 @@ This course is called Algorithms and Data Structures II course, and its taught b
 #### 🚀 *About the Author*:
 My name is Miguel Euripedes, I have a degree in Science and Technology from the Universidade Federal do Rio Grande do Norte and I'm currently pursing a degree in Computer Engineering by the same university. I'm member of the [Conect2Ai](https://github.com/conect2ai) Research Group and Machine Learning and IA enthusiast. Feel free to reach me on [LinkedIn! ![Linkedin](https://i.stack.imgur.com/gVE0j.png)]([https://www.linkedin.com/](https://www.linkedin.com/in/miguel-e-0985a9208/))
 &nbsp;
-
+<center><img width="800" src="graph_ia_example.png"></center>
 
 
 
