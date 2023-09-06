@@ -12,7 +12,7 @@ Finally, I conducted a performance evaluation of each one. The portuguese video 
 Below, I present an image of the work process carried out in the project:
 
 <p align="center">
-<img src="Figures/workflow.png" />
+<img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/e8845256831f8d858019eb1ef0fb46752680f9e7/Figures/workflow.png" />
 ---
 
 ## Corpus
