@@ -33,8 +33,20 @@ Here its possible to follow the progress each week of the course.
 - [Kaggle Basic Python Course](https://www.kaggle.com/learn/python)
 
 
+
 ---
 #### :books: Week 02:
+
+- Algorithm and Data Structures review:
+  - Notebooks resources from Prof. Ivanovitch:
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**
+- Project: 
+  - 🌳 Autocomplete Algorithms using AVL Trees [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_autocompleter)
+
+---
+#### :books: Week 03:
 
 - In progress...
 
