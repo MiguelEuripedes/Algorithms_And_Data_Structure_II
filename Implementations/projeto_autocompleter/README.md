@@ -41,7 +41,8 @@ We processed these databases, and in the end, we obtained lists of a varying num
 
 Below you can check the processing time for each book:
 
-'grafico em barra do tempo de processamento por livro'
+<p align="center">
+<img src="./Figures/barplot_processTime_vs_book.png" />
 
 ## Search results
 
@@ -53,7 +54,8 @@ To standardize the tests, I performed the search in all cases for the same prefi
 
 In the image below, we can see a comparison between the insertion time and the number of words in the corpus. The blue curve represents the AVL structure, the orange one represents the BST, and finally, the green one represents the list.
 
-'imagem do gráfico em linha'
+<p align="center">
+<img src="./Figures/insertionTime_vs_numberOfWords.png" />
 
 Furthermore, here its provided the results of the heights for each tree with respect to each book:
 
@@ -68,7 +70,8 @@ Note the difference in heights; this is very important for us to understand as i
 
 In the images below, we can visualize the search time that each algorithm took for each book. In the first image (left), we can observe that the list took much more time than the other structures, as expected. Therefore, I decided to show in the second image (right) a more fair comparison between the other two algorithms.
 
-'imagem barras'
+<p align="center">
+<img src="./Figures/search_time_all_algorithms.png" />
 
 # Conclusion
 
