@@ -1,7 +1,7 @@
 
 # 🌳 Autocomplete Algorithms using AVL Trees
 
-This project is part of the first unit of the course, and here I present the results of this project. The main objective of this project is to create an autocomplete word system using an AVL tree.
+This project is part of the first unit of the course, and here I present the results achieved by me (Miguel Euripedes) in this project. The main objective of this project is to create an autocomplete word system using an AVL tree.
 
 To perform the autocomplete task, it is necessary to first insert a text, known as a corpus, to create a word bank for the search.
 
