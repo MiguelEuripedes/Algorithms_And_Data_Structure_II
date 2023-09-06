@@ -28,7 +28,7 @@ For the execution of this work, I used 6 datasets as corpus with the aim of eval
  * Bible
  * Portuguese language dictionary
 
-### Resultado de pre-processamento desses corpus
+### This Corpus pre-processing results
 
 We processed these databases, and in the end, we obtained lists of a varying number of words with different processing times:
 
