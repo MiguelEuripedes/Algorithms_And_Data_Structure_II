@@ -12,7 +12,7 @@ Finally, I conducted a performance evaluation of each one. The portuguese video 
 Below, I present an image of the work process carried out in the project:
 
 <p align="center">
-<img src="Implementations/projeto_autocompleter/Figures/workflow.png" />
+<img src="./Figures/workflow.png" />
 
 
 ---
