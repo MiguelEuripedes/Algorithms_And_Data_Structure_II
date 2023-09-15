@@ -47,6 +47,20 @@ Here its possible to follow the progress each week of the course.
 
 ---
 #### :books: Week 03:
+- Complexity of Algorithms: Here we watch the videos (in Portuguese) from [Prof. Ivanovitch](https://github.com/ivanovitchm) aiming to understand the concepts and importance of algorithms complexity. Here are the main resources from his repository for this week, including his videos:
+  - How to calculate the complexity of the most common usa cases algorithms (linear, quadratic and constant complexity):
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272) **Fundamentals of Algorithms Complexity I**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/ff26959483f340a38a6083e20979b0b3) **Fundamentals of Algorithms Complexity II**
+  -  Notations and the meaning of their complexity:
+      - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1e67c2e7b8d349c6923d341d182e28bb) **Big O**
+      - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/84067923809c45cf9979fa50d4efd5f4) **Big Ω**
+      - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/76f5017a6b944fedb2cd395b45071f1c) **Big Θ**
 
-- In progress...
+- Besides the theory we had the amazing opportunity to learn more with the [Dataquest](https://www.dataquest.io/data-science-courses/) courses, improving our knowledge about the subject and most important applying it with their exercises:
+  - Time Complexity of Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/476)
+  - Constant Time Complexity  [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/477)
 
+---
+#### :books: Week 04:
+
+- In progress... 
