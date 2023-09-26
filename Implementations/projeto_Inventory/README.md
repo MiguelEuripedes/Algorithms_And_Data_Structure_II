@@ -1,7 +1,7 @@
 
 # 📨 Building Fast Queries on a CSV - Extended 📦
 
-This is the second project of the first unit of the course, and here I (Miguel Euripedes) present my results and implementations. The main objective of this project is to adapt the guided project "Building Fast Queries on a CSV" from the *Introduction to Algorithms* course of the Data Engineer path, made by [Dataquest](Dataquest.io).
+This is the second project of the first unit of the course, and here I (Miguel Euripedes) present my results and implementations. The main objective of this project is to adapt the guided project "Building Fast Queries on a CSV" from the *Introduction to Algorithms* course of the Data Engineer path, made by [Dataquest](https://app.dataquest.io/).
 
 The initial idea of this project is to create a class that allows you to view and manage basic functions of a store inventory.📦 
 For this solution, I tried to create the class in such a way that it was possible to use it for different datasets, a little different from the project on the website, which focused on creating a class to manager an specific dataset. 
