@@ -212,7 +212,7 @@ For this function, since in one of the parameter I'm passing a list of character
 
 # 📌Conclusion
 
-In conclusion, cWith what was presented, it was possible to achieve the proposed objectives. Furthermore, I highlight that the step-by-step process of following the guided project gave me a deeper understanding of how to build more accurate and efficient queries, with examples of time execution and the practice of building a python class. As a result, the project was also important for the practice of programming and implementing these searches, enabling the understanding of the complexity of the codes and functions created, as well as the creation of a more documented code and how this could be done in a real work environment.
+This was a very interesting project and in conclusion, with what was presented, it was possible to achieve the proposed goals. Furthermore, I highlight that the step-by-step process of following the guided project gave me a deeper understanding of how to build more accurate and efficient queries, with examples of time execution and the practice of building a python class. As a result, the project was also important for the practice of programming and implementing these searches, enabling the understanding of the complexity of the codes and functions created, as well as the creation of a more documented code and how this could be done in a real work environment.
 
 # References
 
