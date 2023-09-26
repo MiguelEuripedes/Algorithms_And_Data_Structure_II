@@ -29,9 +29,9 @@ Finally, here I aim to display the main informations about these new implementat
 
 📽️*The portuguese video where I explain a little about this project can be found here [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/69d7d7aec7114280ae784cc230802eba?sid=b8a60342-d507-4c22-808e-fd1fdde0de60).*
 
-📋You can also check the jupyter notebook containing the final `Inventory` class implementation here: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb)
+📋You can also check the jupyter notebook containing the final `Inventory` class implementation here: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_Inventory/Inventory_Additions.ipynb)
 
-If you want to check the notebook made by me during the process of the guided project check this one:[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb)
+If you want to check the notebook made by me during the process of the guided project check this one:[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_Inventory/Inventory_Project.ipynb)
 
 
 
@@ -78,7 +78,7 @@ laptop_inventory.show_inventory_basics(rows = 3)
 This is the first of the required functions, as already presented before, its functionality is expected to perform a search for products that fit into a lower and upper price limit. For its implementation, I used another function implemented through the activities carried out during the guided project.
 
 ```
-def find_product_with_price_range(self, min_price, max_price): # Complexity O(log n), Θ(log n), Ω(1)
+def find_product_with_price_range(self, min_price, max_price):
         '''
         Find all the products with a price between min_price and max_price using the help of the find_first_product_more_expensive() method.
 
@@ -91,7 +91,7 @@ def find_product_with_price_range(self, min_price, max_price): # Complexity O(lo
 
         '''
         
-        start_index = self.find_first_product_more_expensive(min_price)     # O(log n), Θ(log n), Ω(1)
+        start_index = self.find_first_product_more_expensive(min_price)    
         if start_index == -1:
             return []
         end_index = self.find_first_product_more_expensive(max_price)    
@@ -174,6 +174,8 @@ In the table below you can find my conclusions about the time complexity of each
 |     Big θ    |           *Θ(log n)*            |           *Θ(n)*           |
 |     Big Ω    |             *Ω(1)*              |           *Ω(n)*           |
 
+---
+
 ### 🔹 First Function
 
 As I mentioned before, the overall time complexity of this function is influenced by the calls to `find_first_product_more_expensive`, which is O(log n) each time it's called. **This can only be done because the `self.rows_by_price` internal attribute is a sorted list!**.
@@ -191,6 +193,8 @@ Going back to the `find_product_with_price_range` function, you can see that it 
 * *Best Case* (Ω): This case happens when as soon as we start the search we already find the desired value, that is, the value to be searched for is in the middle of the ordered list.
 
 Therefore, I highlight that I preferred to implement the function in this way because I would reuse code created during the evolution process of the guided project and would also maintain an algorithm with a lower complexity, when compared to the other implemented function. I'd like to recall that the final version of the `InventoryExplorer` class has the code with commented informations.
+
+---
 
 ### 🔹Second Function
 
