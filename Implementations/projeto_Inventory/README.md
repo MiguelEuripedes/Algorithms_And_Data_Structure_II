@@ -24,13 +24,19 @@ It is worth remembering that despite trying to create a more general Python Clas
 
 2. Analyze the complexity of the implemented algorithms, considering the Big O, Big θ (Theta), and Big Ω (Omega) notations.
 
+
+
+
 Finally, here I aim to display the main informations about these new implementations and what complexity was found for each function. 
 
-📽️*The portuguese video where I explain a little about this project can be found here [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/69d7d7aec7114280ae784cc230802eba?sid=b8a60342-d507-4c22-808e-fd1fdde0de60).*
 
-📋You can also check the jupyter notebook containing the final `Inventory` class implementation here: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_Inventory/Inventory_Additions.ipynb)
 
-If you want to check the notebook made by me during the process of the guided project check this one:[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_Inventory/Inventory_Project.ipynb)
+
+📽️**The portuguese video where I explain a little about this project can be found here** [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/69d7d7aec7114280ae784cc230802eba?sid=b8a60342-d507-4c22-808e-fd1fdde0de60).*
+
+📋**You can also check the jupyter notebook containing the final `Inventory` class implementation here**: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_Inventory/Inventory_Additions.ipynb)
+
+**If you want to check the notebook made by me during the process of the guided project check this one**:[![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_Inventory/Inventory_Project.ipynb)
 
 
 
