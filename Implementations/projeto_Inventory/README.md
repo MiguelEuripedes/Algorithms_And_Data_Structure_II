@@ -13,7 +13,7 @@ Here are some of the secondary objectives that guided design attempts to achieve
 It is worth remembering that despite trying to create a more general Python Class, the tests performed for this project used the same data as Dataquest, an dataset with minor adaptations. The original dataset can be found here: [Kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price). It is a database containing an inventory of laptops, with various information about the products, including Company, Screen Resolution, Memory, Ram and 8 other characteristics.
 
 <p align="center">
-<img src="./Images/inventory_pic.jpg" />
+<img src="./Images/inventory_pic.jpg" width="300" height="300"/>
 
 
 📎Speaking a little about the main objectives of this project, I highlight that it must:
