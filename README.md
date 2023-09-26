@@ -42,7 +42,7 @@ Here its possible to follow the progress each week of the course.
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**
     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**
-- Project: 
+- 🚀 ***Project***: 
   - 🌳 Autocomplete Algorithms using AVL Trees [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_autocompleter)
 
 ---
@@ -62,5 +62,20 @@ Here its possible to follow the progress each week of the course.
 
 ---
 #### :books: Week 04:
+
+- For this week the goal was to finish more dataquest Courses, in order to better understand about algorithms and their complexity. By the end of the course you would understand everything required to take the guided project and deep dive in the practice.
+  - Once you've finished the last courses your goal here is to finish the rest of them:
+    - Logarithmic Time Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/478/logarithmic-time-complexity/)
+    - Sorting Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479/)
+    - Space Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/480/)
+  - After the courses your goal is to take the Guilded Project.
+- Besides these courses and the project, for this week we should read a Code Interview notebook with a lot of insights about testing our code.
+  - Tests and Code Interview Notebook [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb)
+ 
+- 🚀 ***Project***:
+  - 📨 Building Fast Queries on a CSV - Extended 📦 [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_Inventory)
+
+---
+#### :books: Week 05:
 
 - In progress... 
