@@ -39,9 +39,9 @@ Here its possible to follow the progress each week of the course.
 
 - Algorithm and Data Structures review:
   - Notebooks resources from Prof. Ivanovitch:
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**
-    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**
+    - **Recursion** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) 
+    - **Binary Trees** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) 
+    - **AVL Trees** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) 
 - 🚀 ***Project***: 
   - 🌳 Autocomplete Algorithms using AVL Trees [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_autocompleter)
 
@@ -70,12 +70,57 @@ Here its possible to follow the progress each week of the course.
     - Space Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/480/)
   - After the courses your goal is to take the Guilded Project.
 - Besides these courses and the project, for this week we should read a Code Interview notebook with a lot of insights about testing our code.
-  - Tests and Code Interview Notebook [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb)
+  - **Tests and Code Interview Notebook** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb)
  
 - 🚀 ***Project***:
   - 📨 Building Fast Queries on a CSV - Extended 📦 [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_Inventory)
 
+
 ---
 #### :books: Week 05:
 
-- In progress... 
+- Introducing the class to the concepts of Network Fundamentals and Graphs, the goal of this week was to watch the classes and complement the knowledge with some videos made by our teacher [Prof. Dr. Ivanovitch](https://github.com/ivanovitchm)
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/aa7b736bc2b24d599efa7b24d96edc72) **Basic Definitions**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/8646b007d7ac4aa485430a3a7c487480) **Extended Graphs**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/49175fd385d94ae58831921cd53f715c) **Density, Sparsity and Subnetworks**
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/bcaf192f492a413984d7b183edf06ce2) **Degree and Network Representation**
+  -  Once you're done train a little witht his Jupyter notebook:
+  -  Once you're done train a little witht his Jupyter notebook:
+      - **Hands On with NetworkX** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/%5BNetworkX%5D_Network_Elements.ipynb)
+
+
+
+
+---
+#### :books: Week 06:
+
+- 🚀 ***Project***:
+  - 🖧 Graphs and 🌐Networks: An Approach Applied to F1-Clash 🏎️ [![Repository](https://img.shields.io/badge/-Repo-191A1B?style=flat-square&logo=github)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/tree/main/Implementations/projeto_f1clash)
+ 
+---
+#### :books: Week 07:
+
+- For this week the goal was to explore and learn about `Homiphily` and `Assortativity` .
+  - To start, consider watching my teacher's video (in portuguese) about the subject:
+    - [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7a3a7eaae9e44647964d178fb1c4ba11) **Assortativity**. By [Prof. Dr. Ivanovitch](https://github.com/ivanovitchm)
+  - After the video its interesting to check some hand-on Jupyter Notebooks:
+    - **About Assortativity** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Assortativity.ipynb)
+    - **Hands On with NetworkX** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/NetworkX.ipynb)
+
+ ---
+ #### :books: Week 08:
+
+- In progress...
+
+
+
+
+
+
+
+
+
+
+
+
+ 
