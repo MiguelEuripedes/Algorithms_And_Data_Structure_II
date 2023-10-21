@@ -10,7 +10,8 @@ Finally, here I present the results achieved and explain how to achieve it, the 
 
 
 <p align="center">
-<img src="./Figures/workflow.png" />
+<img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/assets/56210040/93e46c01-77f9-4471-adf4-1a7b13b015f5" />
+
 
 
 ---
@@ -42,7 +43,7 @@ Now, with everythig done we can move to the next part.
 
 ### Visualization
 
-#### Box Plot
+#### 🔦Box Plot
 
 Using the post-processed data, before creating the histogram with the distribution of team scores, I chose to visualize these values in another way in order to obtain a more statistical breakdown beforehand. The box plot below is the visualization used for this purpose:
 
@@ -51,7 +52,7 @@ Using the post-processed data, before creating the histogram with the distributi
 
 This visualization is useful for determining the range of values to set as the **cutoff**. In this case, I chose to set it at the value of 870 because this value represents the top 31 samples, which corresponds to 0.01% of the data.
 
-#### Histogram
+#### 📊Histogram
 
 With this, we can conclude the visualization of the histogram as desired.
 
@@ -79,7 +80,7 @@ fig.show()
     2. Choose whether the vertex size will be proportional to the "Team Score" (red vertex) or to the "Out Degree" of the cards (black vertex).
     3. With the graph from the previous item, create a graph for the Probability Density Function (PDF) of the "Out Degree" property of the vertices associated with the setup cards, using the NetworkX library and the Seaborn library (KDE function).
 
-### Creating the Graph
+### 🕸 Creating the Graph
 
 To create the graph visualization, one must first create the graph. For this purpose, the networkX library and the CSV resulting from the filter performed in the previous activity were used.
 
@@ -106,7 +107,7 @@ with open('/content/filtered_TeamScore.csv', 'r') as csv_file:
                 G.add_edge(component_node, setup)  # Reverse the edge direction to point from component to setup
 ```
 
-### Visualize graph
+### 📊Visualize graph
 
 With the graph object created lets move to the desired plot:
   - Now, to visualize the graph representation:
@@ -170,7 +171,7 @@ The chart above helps us better understand the graph and even confirm that it fa
 
 For the creation of the graph in this activity, a dictionary mapping all available boosts was created. With this dictionary, a CSV was generated, and the code for this process can be found [here](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_f1clash/PreProcessing/netX_BoostComb.py).
 
-### Visualize de Graph
+### 📊Visualize de Graph
 
 The code for this graph ended up being a bit more extensive, so I invite you to check the notebook with this code if you wish to delve deeper into the graph creation. However, the creation of this graph was mainly done following the following process:
   1. Separation between nodes corresponding to the boost and nodes corresponding to the attribute:
@@ -193,7 +194,7 @@ attributes_sizes = [800 + 100*out_degrees_attributes[node] if B.nodes[node]['nty
 
 With that, the graph can be seen here. Note that most of the boosts tend to increase: Overtaking, Race Start, Tyre Management, Power Unit, Pit Stop, and Defending. On the other hand, the attributes Cornering, Reliability, and Speed receive less attention. However, it's worth noting that the difference is just 1, indicating that most of the attributes have roughly the same number of occurrences.
 
-#### Additional visualizations
+#### 📊Additional visualizations
 
 With the NXViz library, it was possible to create two other visualizations for the same data, correlating the boosts and the attributes. Note that for both graphics the highlighted edge is the relation between the attribute `Speed` and the boost known as `Merlion`
 
@@ -211,7 +212,7 @@ With the NXViz library, it was possible to create two other visualizations for t
 
 To conclude, the last class involved the creation of a methodology to achieve the best result by combining drivers, boosts, and setups. To do this, I provided a more detailed explanation of the data processing in the notebooks, and here I am explaining the logic to reach the final result.
 
-### The data combination
+### 🖇️The data combination
 
 The combination of the data for this solution took into consideration the top 10 selected drivers with the best setups and all the boosts. In total, the dataset consisted of 61,380 rows, with all the combinations from this setup. With this in mind, I calculated an average by weighting the attributes of these combinations. Note that I prioritized `speed` and `cornering`:
 
