@@ -69,7 +69,7 @@ Here its possible to follow the progress each week of the course.
     - Sorting Algorithms [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/479/)
     - Space Complexity [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://app.dataquest.io/c/86/m/480/)
   - After the courses your goal is to take the Guilded Project.
-- Besides these courses and the project, for this week we should read a Code Interview notebook with a lot of insights about testing our code.
+- Besides these courses and the project, for this week we should read and study a Code Interview notebook. It was provided by (Prof. Dr. Ivanovitch)[https://github.com/ivanovitchm], here you can find a lot of insights about testing your code.
   - **Tests and Code Interview Notebook** → [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_04/Week_04_solver.ipynb)
  
 - 🚀 ***Project***:
