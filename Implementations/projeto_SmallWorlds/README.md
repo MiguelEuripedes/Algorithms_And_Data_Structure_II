@@ -13,8 +13,8 @@ The purpose of this study is to explore the contents related to small-world netw
     <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/assets/56210040/bbd0b466-3d26-4fcc-9bf5-73162891d84c" width="800" height="600">
 </div>
 
-This project was made by my ([Miguel](https://github.com/MiguelEuripedes)) as part of the course of Algorithms and Data Structures II, taught by [Prof. Ivanovitch Silva](https://github.com/ivanovitchm). Here the project is related to the weeks 9 aiming to take into practice the content of week 7 and 8. The portuguese video explaning the project and implementation can be found [here](https://www.loom.com/share/38d280626fbb47ee8c07078a712298ab?sid=3fa5d478-0032-4463-af2d-5243dd679d1e).
-
+This project was made by my ([Miguel](https://github.com/MiguelEuripedes)) as part of the course of Algorithms and Data Structures II, taught by [Prof. Ivanovitch Silva](https://github.com/ivanovitchm). Here the project is related to the weeks 9 aiming to take into practice the content of week 7 and 8. The portuguese video explaning the project and implementation can be found 
+[here ![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/38d280626fbb47ee8c07078a712298ab?sid=3fa5d478-0032-4463-af2d-5243dd679d1e).
 ## 📌 Requirement 01 - Selecting Networks
 
 Here you find the selected networks:
