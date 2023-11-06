@@ -1,5 +1,6 @@
 # 🏁 Project: Small Worlds 🚩
 
+
 The purpose of this study is to explore the contents related to small-world networks and graphs. To achieve this, concepts such as assortativity, connected components, and clustering coefficient, among others, need to be applied. This work has been divided into three requirements:
 
 - 1st Requirement: Select five networks from the [SNAP](https://snap.stanford.edu/index.html) website to analyze.
@@ -7,6 +8,10 @@ The purpose of this study is to explore the contents related to small-world netw
 - 2nd Requirement: Create and interpret bipartite graphs concerning the assortativity with respect to the degree of nodes in each of these networks.
 
 - 3rd Requirement: Compile and interpret a table where the columns represent properties specific to each of these networks, such as the number of vertices, the number of edges, degree assortativity coefficient, size of the Giant Connected Component (GCC), and the average clustering coefficient.
+  
+<div align="center">
+    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/assets/56210040/bbd0b466-3d26-4fcc-9bf5-73162891d84c" width="800" height="600">
+</div>
 
 This project was made by my ([Miguel](https://github.com/MiguelEuripedes)) as part of the course of Algorithms and Data Structures II, taught by [Prof. Ivanovitch Silva](https://github.com/ivanovitchm). Here the project is related to the weeks 9 aiming to take into practice the content of week 7 and 8. The portuguese video explaning the project and implementation can be found [here]().
 
