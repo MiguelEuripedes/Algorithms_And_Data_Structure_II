@@ -154,6 +154,17 @@ The highest-order k-core typically corresponds to the most densely connected por
 
 For the K-Shell, I used a differente value for k. For this case I used the value 4, which not necessarily is the highest value. The K-Shell is a subgraph of the network where all nodes have a degree of at least k. In this case, the K-Shell is a subgraph where all nodes have a degree of at least 4. 
 
+
+## 💎Final look of the network
+
+The image below shows the final look of the network. In this image, the nodes are colored according to the community criterion and the vertex size according to the in-degree metric.
+
+<div align="center">
+    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_WikiNetworkWithGephi/Images/final_graph.png?raw=true" width="1000" height="500">
+</div>
+
+
+
 ## References
 
 [Ivanovitch's repository for algorithms and data structures](https://github.com/ivanovitchm/datastructure)
