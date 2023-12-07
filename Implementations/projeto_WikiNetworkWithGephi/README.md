@@ -23,7 +23,7 @@ This deployment was made using the Sigma.js plugin for Gephi. The plugin can be 
 
   
 <div align="center">
-    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_WikiNetworkWithGephi/Images/readme_mainpic.png?raw=true" width="1000" height="500">
+    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_WikiNetworkWithGephi/Images/readme_mainpic.png?raw=true" width="1000" height="470">
 </div>
 
 
@@ -160,7 +160,7 @@ For the K-Shell, I used a differente value for k. For this case I used the value
 The image below shows the final look of the network. In this image, the nodes are colored according to the community criterion and the vertex size according to the in-degree metric.
 
 <div align="center">
-    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_WikiNetworkWithGephi/Images/final_graph.png?raw=true" width="1000" height="500">
+    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_WikiNetworkWithGephi/Images/final_graph.png?raw=true" width="1000" height="1000">
 </div>
 
 
