@@ -99,7 +99,7 @@ For this case, we have the same network as in the previous scenario (specificall
 #### Historical Center Itinerary
 
 <div align="center">
-    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Imgs/GraphResult_HistoriclCenter.png?raw=true" width="600" height="400">
+    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Imgs/GraphResult_HistoricalCenter.png?raw=true" width="600" height="400">
 </div>
 
 In this case, if we have a longer route in a larger network (26,407 nodes and 77,414 edges), I opted to use more iterations of the Simulated Annealing (SA) to optimize the route. We observed a tumultuous start for the algorithm, but over time, it managed to cool down, eventually reaching a good solution for the problem. Nevertheless, the total distance obtained was 8.86, significantly shorter than the others. Since it's a feasible route to be done on foot, it is a quite reasonable consideration for a tourist itinerary.
@@ -123,7 +123,7 @@ The images below provide a visualization of the routes found by the algorithm, e
 #### Historical Center Itinerary
 
 <div align="center">
-    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Imgs/Map_HistoriclCenter.png?raw=true" width="600" height="400">
+    <img src="https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Imgs/Map_HistoricalCenter.png?raw=true" width="600" height="400">
 </div>
 
 
