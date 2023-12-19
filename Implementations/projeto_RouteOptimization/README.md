@@ -22,7 +22,7 @@ With that the results expected are:
 - An optimized tourist itinerary that offers a efficient and pleasant experience for visitors
 - Practical application and in-depth understanding of graphs with optimization algorithms.
 
-Thus, in the rest of this README, you will find the results. If want to find the code used to generate the network, please refer to this Jupyter Notebook: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Notebook/Projeto_Roteiro.ipynb)
+Thus, in the rest of this README, you will find the results. If want to find the code used to generate the network, please refer to this Jupyter Notebook: [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)]([https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Notebook/Projeto_Roteiro.ipynb](https://github.com/MiguelEuripedes/Algorithms_And_Data_Structure_II/blob/main/Implementations/projeto_RouteOptimization/Notebook/Projeto_Roteiro.ipynb)
 
 This project was made by my ([Miguel](https://github.com/MiguelEuripedes)) as part of the course of Algorithms and Data Structures II, taught by [Prof. Ivanovitch Silva](https://github.com/ivanovitchm). Here the project is related to the final weeks of the course.
 
