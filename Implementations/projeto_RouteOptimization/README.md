@@ -27,7 +27,7 @@ Thus, in the rest of this README, you will find the results. If want to find the
 This project was made by my ([Miguel](https://github.com/MiguelEuripedes)) as part of the course of Algorithms and Data Structures II, taught by [Prof. Ivanovitch Silva](https://github.com/ivanovitchm). Here the project is related to the final weeks of the course.
 
 The portuguese video explaning the project and implementation can be found 
-[here ![Open in YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OUEWqdlNFA4).
+[here ![Open in YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtu.be/OUEWqdlNFA4](https://youtu.be/OUEWqdlNFA4)).
 
 
 
